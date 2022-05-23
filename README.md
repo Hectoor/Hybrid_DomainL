@@ -1,6 +1,6 @@
 # Hybrid_DomainL
 
-The implementation of the paper "A Hybrid Domain Learning Framework for Unsupervised Semantic Segmentation". 
+The implementation of the paper "A Hybrid Domain Learning Framework for Unsupervised Semantic Segmentation". The overview of our framework is shown in the figure below.
 
 ![](./figs/overview.png)
 

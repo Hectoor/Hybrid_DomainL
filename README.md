@@ -11,8 +11,8 @@ Supervised semantic segmentation often fails to generalize well in unseen scenar
 
 ## Running 
 
-### Pretrained model 
-The model can be found in [here](https://drive.google.com/drive/folders/12Ra5T35A5mU1YFcpBiM2FYlUrd30vQ9H?usp=sharing).
+### Pre-trained model 
+The pre-trained model can be found in [here](https://drive.google.com/drive/folders/12Ra5T35A5mU1YFcpBiM2FYlUrd30vQ9H?usp=sharing). Note that the dataset path should be modified for successfully running.
 
 ### Training
 For training, you can execute by:

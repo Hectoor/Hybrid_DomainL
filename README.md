@@ -27,3 +27,6 @@ For evaluation, you can execute by:
 ```bash
 python HDL_evaluate.py --path_file 'path of the model'
 ```
+
+## Acknowledgements
+This codebase is heavily borrowed from [ASANet](https://github.com/idealwei/ASANet)

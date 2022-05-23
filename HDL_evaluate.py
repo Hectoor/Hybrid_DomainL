@@ -59,10 +59,6 @@ def get_arguments():
                         help="Whether to randomly mirror the inputs during the training.")
     parser.add_argument("--exp-root", type=str, default=EXP_ROOT,
                         help="Where restore experience.")
-    parser.add_argument("--start-check", type=int, default=STARTCHECK,
-                      help="start check")
-    parser.add_argument("--check-step", type=int, default=CHECKSTEP,
-                      help="check step")
     parser.add_argument("--data-list-target", type=str, default=DATA_LIST_PATH_TARGET,
                         help="Path to the file listing the images in the target dataset.")
     parser.add_argument("--data-dir-target", type=str, default=DATA_DIRECTORY_TARGET,
